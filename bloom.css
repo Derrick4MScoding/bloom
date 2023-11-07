@@ -1,0 +1,26 @@
+.list-unstyled.social-header{
+    text-align: right;
+    display: inline;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.col-lg-4 img {
+    width: 800px;
+    height: auto;
+}
+
+.icon-facebook2{
+    width: 200px;
+}
+
+.icon-twitter{
+    
+}
